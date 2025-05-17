@@ -2,6 +2,8 @@
 
 Este projeto automatiza a criação de posts temáticos para Instagram sobre a trilogia cinematográfica de "O Senhor dos Anéis". Ele foi desenvolvido como parte da Imersão IA da Alura em parceria com o Google.
 
+Confira o resultado final em https://www.instagram.com/tododiasda/
+
 ## Funcionalidades Principais
 
 * **Geração de Citações:** Utiliza um agente de IA (Google ADK com Gemini) para selecionar citações EXATAS e memoráveis dos filmes da trilogia "O Senhor dos Anéis".
